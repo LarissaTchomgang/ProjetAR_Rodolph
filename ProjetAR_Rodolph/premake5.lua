@@ -1,5 +1,5 @@
 -- SDL3App/premake5.lua
-project "BeginAr"
+project "ProjetAR_Rodolph"
     kind "ConsoleApp" -- staticlib sharedlib
     language "C++"
     cppdialect "C++20"
